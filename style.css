@@ -150,7 +150,9 @@ nav {
 
 .about-me__img {
     width: 100%;
+    /*ADDED BY ME*/
+    padding: 50px;
 }
 
 
-
+/* POST ABOUT ME --- IMAGE ISSUES */
